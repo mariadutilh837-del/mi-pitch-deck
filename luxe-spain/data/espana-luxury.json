@@ -1,0 +1,177 @@
+{
+  "brand": {
+    "name": "ESCAPADAS DE LUJO",
+    "tagline": "Spain's Finest Weekends",
+    "subtitle": "Six destinations. Uncompromising luxury."
+  },
+  "destinations": [
+    {
+      "id": "andalucia",
+      "name": "ANDALUCÍA",
+      "subtitle": "Málaga · Caminito del Rey · El Torcal",
+      "accent": "#C9A84C",
+      "description": "Ancient landscapes. Infinite coastline.",
+      "hero_quote": "Where the mountains meet the sea.",
+      "hotels": [
+        { "name": "Gran Hotel Miramar", "detail": "5★ beachfront palace" },
+        { "name": "Finca La Bobadilla", "detail": "Private countryside estate" },
+        { "name": "Posada del Torcal", "detail": "Adults-only boutique retreat" }
+      ],
+      "experiences": [
+        { "name": "Caminito del Rey", "detail": "Private guided access" },
+        { "name": "Yacht Charter", "detail": "Costa del Sol coastline" },
+        { "name": "El Torcal at Night", "detail": "Private astronomical experience" },
+        { "name": "Horseback Riding", "detail": "Through Andalusian landscapes" }
+      ],
+      "gastronomy": [
+        { "name": "Kaleja", "detail": "Michelin starred" },
+        { "name": "José Carlos García", "detail": "Michelin starred" },
+        { "name": "Bardal", "detail": "2 Michelin stars" }
+      ],
+      "transport": [
+        { "name": "Private Driver", "detail": "From Málaga airport" },
+        { "name": "Helicopter Transfer", "detail": "Coastal routes" },
+        { "name": "Luxury SUV", "detail": "With concierge service" }
+      ]
+    },
+    {
+      "id": "mallorca",
+      "name": "MALLORCA",
+      "subtitle": "Cap de Formentor",
+      "accent": "#B8A48E",
+      "description": "Cliffs of limestone. Mediterranean blues.",
+      "hero_quote": "The jewel of the Balearics.",
+      "hotels": [
+        { "name": "Four Seasons Formentor", "detail": "Resort at the cape" },
+        { "name": "Formentor Royal Hideaway", "detail": "Iconic luxury landmark" }
+      ],
+      "experiences": [
+        { "name": "Private Yacht", "detail": "Cliffs and hidden coves" },
+        { "name": "Formentor Lighthouse", "detail": "Sunset private access" },
+        { "name": "Scenic Drive", "detail": "Chauffeur through the cape" },
+        { "name": "Serra de Tramuntana", "detail": "Cycling or hiking" }
+      ],
+      "gastronomy": [
+        { "name": "Maca de Castro", "detail": "Michelin starred" },
+        { "name": "Es Fum", "detail": "Fine dining elevated" }
+      ],
+      "transport": [
+        { "name": "Private Transfer", "detail": "From Palma airport" },
+        { "name": "Yacht Charter", "detail": "Full day experience" },
+        { "name": "Helicopter", "detail": "Over Mallorca coastline" }
+      ]
+    },
+    {
+      "id": "ibiza",
+      "name": "IBIZA",
+      "subtitle": "Es Vedrà",
+      "accent": "#D4AF6E",
+      "description": "Sacred rock. Electric sunsets.",
+      "hero_quote": "The island never reveals all its secrets.",
+      "hotels": [
+        { "name": "7Pines Resort", "detail": "Cliffside luxury suites" },
+        { "name": "Six Senses Ibiza", "detail": "Wellness luxury" },
+        { "name": "Petunia Ibiza", "detail": "Boutique with Es Vedrà views" }
+      ],
+      "experiences": [
+        { "name": "Yacht Sunset", "detail": "Around Es Vedrà" },
+        { "name": "Exclusive Beach Club", "detail": "Private access" },
+        { "name": "Wellness Retreat", "detail": "Yoga · spa · silence" },
+        { "name": "Hidden Coves", "detail": "Kayak and boat access" }
+      ],
+      "gastronomy": [
+        { "name": "Es Boldado", "detail": "Seafood with Es Vedrà views" },
+        { "name": "The View", "detail": "Fine dining above the sea" },
+        { "name": "La Mesa d'Es Vedrà", "detail": "Intimate and refined" }
+      ],
+      "transport": [
+        { "name": "Luxury Yacht Charter", "detail": "Full VIP experience" },
+        { "name": "Private Driver", "detail": "Across the island" },
+        { "name": "Helicopter", "detail": "Over Ibiza coastline" }
+      ]
+    },
+    {
+      "id": "cataluna",
+      "name": "CATALUÑA",
+      "subtitle": "Montserrat · Penedès",
+      "accent": "#A89060",
+      "description": "Sacred mountain. Fine wines.",
+      "hero_quote": "Culture at its most sublime.",
+      "hotels": [
+        { "name": "Mandarin Oriental", "detail": "Urban luxury in Barcelona" },
+        { "name": "Mastinell Wine Hotel", "detail": "Vineyard architecture" }
+      ],
+      "experiences": [
+        { "name": "Helicopter to Montserrat", "detail": "From Barcelona" },
+        { "name": "Monastery Access", "detail": "Private choir experience" },
+        { "name": "Hot Air Balloon", "detail": "Over vineyards + tasting" },
+        { "name": "Private Winery Tours", "detail": "Penedès region" }
+      ],
+      "gastronomy": [
+        { "name": "Moments", "detail": "2 Michelin stars" },
+        { "name": "Vineyard Tasting Menus", "detail": "Local & seasonal" }
+      ],
+      "transport": [
+        { "name": "Helicopter Transfer", "detail": "Barcelona to mountains" },
+        { "name": "Private Driver", "detail": "From Barcelona" },
+        { "name": "Concierge Wine Route", "detail": "Curated itinerary" }
+      ]
+    },
+    {
+      "id": "costa-brava",
+      "name": "COSTA BRAVA",
+      "subtitle": "Tossa de Mar",
+      "accent": "#C0A875",
+      "description": "Medieval walls. Turquoise coves.",
+      "hero_quote": "The wild coast preserved in time.",
+      "hotels": [
+        { "name": "Casa Granados Boutique", "detail": "Intimate luxury hotel" },
+        { "name": "Hostal de La Gavina", "detail": "Iconic coastal luxury" },
+        { "name": "Hotel Diana", "detail": "Historic seaside hotel" }
+      ],
+      "experiences": [
+        { "name": "Private Yacht", "detail": "Along Costa Brava" },
+        { "name": "Vila Vella", "detail": "Medieval village exploration" },
+        { "name": "Hidden Coves", "detail": "Swimming & snorkeling" },
+        { "name": "Wine Tasting", "detail": "Empordà region" }
+      ],
+      "gastronomy": [
+        { "name": "La Cuina de Can Simón", "detail": "Michelin starred" },
+        { "name": "Candlelight Restaurant", "detail": "Dine by the sea" }
+      ],
+      "transport": [
+        { "name": "Private Transfer", "detail": "From Barcelona" },
+        { "name": "Boat & Yacht Rental", "detail": "Coastline exploration" },
+        { "name": "Chauffeur Routes", "detail": "Coastal scenic drive" }
+      ]
+    },
+    {
+      "id": "la-rioja",
+      "name": "LA RIOJA",
+      "subtitle": "La Rioja Alta",
+      "accent": "#9E3A2B",
+      "description": "Legendary vineyards. Architectural icons.",
+      "hero_quote": "Where wine becomes art.",
+      "hotels": [
+        { "name": "Marqués de Riscal", "detail": "Frank Gehry design hotel" },
+        { "name": "Hotel Viura", "detail": "Architectural boutique" },
+        { "name": "Palacio de Samaniego", "detail": "Private luxury palace" }
+      ],
+      "experiences": [
+        { "name": "Private Wine Tastings", "detail": "Premium wineries" },
+        { "name": "Hot Air Balloon", "detail": "Over vineyards at dawn" },
+        { "name": "Vineyard Tours", "detail": "By bike or horseback" },
+        { "name": "Wine Spa", "detail": "Vinotherapy experience" }
+      ],
+      "gastronomy": [
+        { "name": "El Portal de Echaurren", "detail": "2 Michelin stars" },
+        { "name": "Venta Moncalvillo", "detail": "2 Michelin, farm-to-table" }
+      ],
+      "transport": [
+        { "name": "Private Driver", "detail": "Between wineries" },
+        { "name": "Helicopter or Balloon", "detail": "Aerial experience" },
+        { "name": "Full Concierge Route", "detail": "Curated wine tour" }
+      ]
+    }
+  ]
+}
